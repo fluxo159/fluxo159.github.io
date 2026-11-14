@@ -1,0 +1,1 @@
+import{r as e}from"./framework-D_rUT4EX.js";import{SiteStatus as t}from"./site-status-BoY7AfiD.js";var n=e();function r({reset:e}){return(0,n.jsx)(t,{state:`error`,onRetry:e})}export{r as default};
